@@ -35,7 +35,7 @@
     "handsontable": "^7.1.0",
     "jquery": "^3.4.1",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.19.2",
+    "knex": "^0.19.5",
     "mssql": "^5.1.0",
     "ng-editable-table": "^0.3.15",
     "ng-uikit": "^0.1.6",
